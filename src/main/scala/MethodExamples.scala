@@ -1,4 +1,4 @@
-object Example {
+object MethodExample {
   def square(x: Int): Int = {
       println("Printing!")
       x * x
